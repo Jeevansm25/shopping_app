@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction to Cloud Computing",
+    "details": "Learn the fundamentals of cloud computing and its applications in modern IT infrastructure.",
+    "category": "Cloud",
+    "available": true
+  },
+  {
+    "id": "2",
+    "title": "DevOps Fundamentals",
+    "details": "Master the principles and practices of DevOps to streamline software development and deployment.",
+    "category": "DevOps",
+    "available": true
+  },
+  {
+    "id": "3",
+    "title": "Kubernetes for Beginners",
+    "details": "Get started with container orchestration using Kubernetes.",
+    "category": "Container",
+    "available": true
+  }
+]

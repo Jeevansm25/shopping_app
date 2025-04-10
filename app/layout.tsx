@@ -14,7 +14,7 @@ const ivmFont = IBM_Plex_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Quantum Shopping Experience",
+  title: "IBM Shopping App",
   description: "Next-generation shopping platform with quantum-powered recommendations",
   generator: "v0.dev",
   icons: {

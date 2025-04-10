@@ -137,7 +137,7 @@ export default function AdminDashboardPage() {
                 </p>
                 <Button
                   onClick={() => mounted && router.push("/admin/courses")}
-                  className="w-full bg-green-600 hover:bg-green-700 text-white font-medium py-2 rounded-lg transition-colors duration-300"
+                  className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 rounded-lg transition-colors duration-300"
                 >
                   Manage Courses
                 </Button>
@@ -160,7 +160,7 @@ export default function AdminDashboardPage() {
                 </p>
                 <Button
                   onClick={() => mounted && router.push("/admin/analytics")}
-                  className="w-full bg-purple-600 hover:bg-purple-700 text-white font-medium py-2 rounded-lg transition-colors duration-300"
+                  className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 rounded-lg transition-colors duration-300"
                 >
                   View Analytics
                 </Button>
